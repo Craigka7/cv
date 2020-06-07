@@ -1,0 +1,27 @@
+  body {
+    background-color: #f1e3cb;
+  }
+
+  h1 {
+  color: #581c0c
+  }
+
+  h2 {
+    color: #581c0c
+  }
+
+  h3 {
+    color: #581c0c
+  }
+
+  b {
+    color: #581c0c
+  }
+
+  hr {
+    background-color: #f1e3cb;
+    border-style: dotted none none;
+    border-color: #581c0c;
+    border-width: thick;
+    width: 35%
+  }
